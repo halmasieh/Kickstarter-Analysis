@@ -8,7 +8,7 @@ Looking at Kistarter project dataset to know how different campaigns fared in re
 ### Purpose
 
 This analysis examines different campaigns fared in relation to their launch dates and their funding goals. 
-The sourse dataset is included as well.[Kickstare_Challenge](/Kickstarter_challenge). 
+The sourse dataset is included as well. ![Kickstare_Challenge](/Kickstarter_challenge). 
 
 Deliverable 1: 
 • To visualize Kickstarter campaign outcomes based on their launch date

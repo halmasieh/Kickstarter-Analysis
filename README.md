@@ -17,9 +17,9 @@ Deliverable 1:
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch)
 
 Deliverable 2
-• Assess the success, failure and cancellation of Kickstarter campaigns based on fundraising goals
-• To plan on selecting Kickstarter campaigns based on the percentage of successful campaigns in each defined goal amount range
-• Possibly a selection of candidate Kickstarter campaigns that have no effect on the long-term  funding goals of the project
+* Assess the success, failure and cancellation of Kickstarter campaigns based on fundraising goals
+* To plan on selecting Kickstarter campaigns based on the percentage of successful campaigns in each defined goal amount range
+* Possibly a selection of candidate Kickstarter campaigns that have no effect on the long-term  funding goals of the project
 ![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals)
 
 
@@ -30,10 +30,10 @@ Deliverable 2
 
 The month that launched the most successful and failed Kickstarter theater campaigns was May. However, except for October, the number of successful launched campaigns after peak has experienced a downward trend and, in the July, and October, the failed Kickstarter theater campaigns rate is very close to peak.
 Furthermore, by glancing at the “Theater outcomes by Lunch Date”, we can specify that the number of successful and Failed theater Kickstarter campaigns has not changed significantly during the following months:![Theater_Outcomes_vs_Launch](/resourses/Theater_Outcomes_vs_Launch.PNG)
-• January
-• March
-• September
-• November
+* January
+* March
+* September
+* November
 
 
 ### Analysis of Outcomes Based on Goals
@@ -45,9 +45,9 @@ It is noteworthy that percentage of the successful Kickstarter campaigns in the 
 
 ### Challenges and Difficulties Encountered
 
-• To populate the “Number successful”, “Number Failed” and “Number Canceled”, columns and using the “countifs”, I got confused and thought that I should filter the columns of Kickstarter based on successful/Failed/canceled as well as subcategory based on plays but after checking the data set, I realized that it does not matter if it is filtered or not. However, the “countifs” performs this filtering.
-• Because in the “Canceled Number” column, all the cells got a value of 0, thus I was not sure if all columns would be zero or not. By filtering the outcomes using “Canceled” along with subcategory using “plays”and checking the data set, I could not find a common point and I made sure that the column D in the outcomes based on goals sheet correctly selected.
-• In chart “ Outcomes_ vs_Goals”, the values on the vertical axis did not conclude the percentage symbol ”%”, I could solve this problem by right click on the column and selecting “Format cell/Percentage”. ![Missing Percentage](/resourses/Missing Percentage.PNG)  (Thanks to Upasana!)  
+* To populate the “Number successful”, “Number Failed” and “Number Canceled”, columns and using the “countifs”, I got confused and thought that I should filter the columns of Kickstarter based on successful/Failed/canceled as well as subcategory based on plays but after checking the data set, I realized that it does not matter if it is filtered or not. However, the “countifs” performs this filtering.
+* Because in the “Canceled Number” column, all the cells got a value of 0, thus I was not sure if all columns would be zero or not. By filtering the outcomes using “Canceled” along with subcategory using “plays”and checking the data set, I could not find a common point and I made sure that the column D in the outcomes based on goals sheet correctly selected.
+* In chart “ Outcomes_ vs_Goals”, the values on the vertical axis did not conclude the percentage symbol ”%”, I could solve this problem by right click on the column and selecting “Format cell/Percentage”. ![Missing Percentage](/resourses/Missing Percentage.PNG)  (Thanks to Upasana!)  
 
 
 
@@ -55,18 +55,18 @@ It is noteworthy that percentage of the successful Kickstarter campaigns in the 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-• The most successful Kickstarter campaigns launched in May and since then, the number of successful campaigns has dropped significantly by the end of year.
-• The percentage of successful campaigns in certain months like January, March, September and November is almost the same and the fluctuations related to these campaigns are more from April to September.
+* The most successful Kickstarter campaigns launched in May and since then, the number of successful campaigns has dropped significantly by the end of year.
+* The percentage of successful campaigns in certain months like January, March, September and November is almost the same and the fluctuations related to these campaigns are more from April to September.
 
 
 - What can you conclude about the Outcomes based on Goals?
 The percentage of successful Kickstarter campaigns is the most in the goal amount range less than 1000 and the lower percentage is 0% that occurs in the range 45000-49999.
 
 - What are some limitations of this dataset?
-• We do not have the background of demographic information and is there sufficient experience for the population that has provided this data set?
-• Some categories are much more popular like theater and drive more traffic than others.
+* We do not have the background of demographic information and is there sufficient experience for the population that has provided this data set?
+* Some categories are much more popular like theater and drive more traffic than others.
 
 
 - What are some other possible tables and/or graphs that we could create?
-• Use measures of central tendency for each set of failed or successful campaigns based on funding goals
-• Make the same table/graph of outcomes based on either goals or pledged by filtering outcomes based on other subcategories or any other column that makes sense.   
+* Use measures of central tendency for each set of failed or successful campaigns based on funding goals
+* Make the same table/graph of outcomes based on either goals or pledged by filtering outcomes based on other subcategories or any other column that makes sense.   

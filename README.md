@@ -14,13 +14,13 @@ Deliverable 1:
 • To visualize Kickstarter campaign outcomes based on their launch date
 • To realize the success or failure of a Kickstarter campaign (especially theater) during the year
 • To determine the month that launch the most successful Kickstarter campaigns
-![Theater_Outcomes_vs_Launch]
+![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch)
 
 Deliverable 2
 • Assess the success, failure and cancellation of Kickstarter campaigns based on fundraising goals
 • To plan on selecting Kickstarter campaigns based on the percentage of successful campaigns in each defined goal amount range
 • Possibly a selection of candidate Kickstarter campaigns that have no effect on the long-term  funding goals of the project
-![Outcomes_vs_Goals]
+![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals)
 
 
 ## Analysis and Challenges

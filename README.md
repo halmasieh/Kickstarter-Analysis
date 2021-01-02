@@ -11,9 +11,9 @@ This analysis examines different campaigns fared in relation to their launch dat
 The sourse dataset is included as well. ![Kickstarter_Challenge](/Kickstarter_challenge). 
 
 Deliverable 1: 
-• To visualize Kickstarter campaign outcomes based on their launch date
-• To realize the success or failure of a Kickstarter campaign (especially theater) during the year
-• To determine the month that launch the most successful Kickstarter campaigns
+* To visualize Kickstarter campaign outcomes based on their launch date
+* To realize the success or failure of a Kickstarter campaign (especially theater) during the year
+* To determine the month that launch the most successful Kickstarter campaigns
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch)
 
 Deliverable 2

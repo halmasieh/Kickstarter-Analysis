@@ -14,13 +14,11 @@ Deliverable 1:
 * To visualize Kickstarter campaign outcomes based on their launch date
 * To realize the success or failure of a Kickstarter campaign (especially theater) during the year
 * To determine the month that launch the most successful Kickstarter campaigns
-![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch)
 
 Deliverable 2
 * Assess the success, failure and cancellation of Kickstarter campaigns based on fundraising goals
 * To plan on selecting Kickstarter campaigns based on the percentage of successful campaigns in each defined goal amount range
 * Possibly a selection of candidate Kickstarter campaigns that have no effect on the long-term  funding goals of the project
-![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals)
 
 
 ## Analysis and Challenges
@@ -29,7 +27,7 @@ Deliverable 2
 ### Analysis of Outcomes Based on Launch Date
 
 The month that launched the most successful and failed Kickstarter theater campaigns was May. However, except for October, the number of successful launched campaigns after peak has experienced a downward trend and, in the July, and October, the failed Kickstarter theater campaigns rate is very close to peak.
-Furthermore, by glancing at the “Theater outcomes by Lunch Date”, we can specify that the number of successful and Failed theater Kickstarter campaigns has not changed significantly during the following months:![Theater_Outcomes_vs_Launch](/resourses/Theater_Outcomes_vs_Launch.PNG)
+Furthermore, by glancing at the “Theater outcomes by Lunch Date”, we can specify that the number of successful and Failed theater Kickstarter campaigns has not changed significantly during the following months:![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch)
 * January
 * March
 * September
@@ -40,7 +38,7 @@ Furthermore, by glancing at the “Theater outcomes by Lunch Date”, we can spe
 
 In general, the percentage of successful Kickstarter campaigns accompanied with plays subcategory for the goal amount range less than 35000 and greater than 45000 has suffered a downward behavior, while with similar range, the percentage of the failed Kickstarter campaigns has experienced an upward growth. In other words, the successful and failed campaigns interact with each other in the recent ranges. 
 In addition to, in the goal amount range 35000-44999, there is no noticeable change in the rate of progress or regression of the successful and failed Kickstarter campaigns.
-It is noteworthy that percentage of the successful Kickstarter campaigns in the goal amount range 45000-49999 is zero and we have 100% failure experience.![Outcomes_vs_Goals](/resourses/Outcomes_vs_Goals.PNG) 
+It is noteworthy that percentage of the successful Kickstarter campaigns in the goal amount range 45000-49999 is zero and we have 100% failure experience.![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals)
 
 
 ### Challenges and Difficulties Encountered

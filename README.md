@@ -28,11 +28,11 @@ Deliverable 2
 
 The month that launched the most successful and failed Kickstarter theater campaigns was May. However, except for October, the number of successful launched campaigns after peak has experienced a downward trend and, in the July, and October, the failed Kickstarter theater campaigns rate is very close to peak.
 Furthermore, by glancing at the “Theater outcomes by Lunch Date”, we can specify that the number of successful and Failed theater Kickstarter campaigns has not changed significantly during the following months:
+![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 * January
 * March
 * September
 * November
-![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals

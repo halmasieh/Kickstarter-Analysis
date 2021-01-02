@@ -51,20 +51,20 @@ It is noteworthy that percentage of the successful Kickstarter campaigns in the 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 * The most successful Kickstarter campaigns launched in May and since then, the number of successful campaigns has dropped significantly by the end of year.
 * The percentage of successful campaigns in certain months like January, March, September and November is almost the same and the fluctuations related to these campaigns are more from April to September.
 
 
-- What can you conclude about the Outcomes based on Goals?
+What can you conclude about the Outcomes based on Goals?
 The percentage of successful Kickstarter campaigns is the most in the goal amount range less than 1000 and the lower percentage is 0% that occurs in the range 45000-49999.
 
-- What are some limitations of this dataset?
+What are some limitations of this dataset?
 * We do not have the background of demographic information and is there sufficient experience for the population that has provided this data set?
 * Some categories are much more popular like theater and drive more traffic than others.
 
 
-- What are some other possible tables and/or graphs that we could create?
+What are some other possible tables and/or graphs that we could create?
 * Use measures of central tendency for each set of failed or successful campaigns based on funding goals
 * Make the same table/graph of outcomes based on either goals or pledged by filtering outcomes based on other subcategories or any other column that makes sense.   

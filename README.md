@@ -38,7 +38,7 @@ Furthermore, by glancing at the “Theater outcomes by Lunch Date”, we can spe
 
 In general, the percentage of successful Kickstarter campaigns accompanied with plays subcategory for the goal amount range less than 35000 and greater than 45000 has suffered a downward behavior, while with similar range, the percentage of the failed Kickstarter campaigns has experienced an upward growth. In other words, the successful and failed campaigns interact with each other in the recent ranges. 
 In addition to, in the goal amount range 35000-44999, there is no noticeable change in the rate of progress or regression of the successful and failed Kickstarter campaigns.
-It is noteworthy that percentage of the successful Kickstarter campaigns in the goal amount range 45000-49999 is zero and we have 100% failure experience.![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals)
+It is noteworthy that percentage of the successful Kickstarter campaigns in the goal amount range 45000-49999 is zero and we have 100% failure experience.![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered

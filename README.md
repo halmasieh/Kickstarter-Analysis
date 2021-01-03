@@ -28,6 +28,7 @@ Deliverable 2
 
 The month that launched the most successful and failed Kickstarter theater campaigns was May. However, except for October, the number of successful launched campaigns after peak has experienced a downward trend and, in the July, and October, the failed Kickstarter theater campaigns rate is very close to peak.
 Furthermore, by glancing at the “Theater outcomes by Lunch Date”, we can specify that the number of successful and Failed theater Kickstarter campaigns has not changed significantly during the following months:
+
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 * January
 * March
@@ -50,7 +51,8 @@ It is noteworthy that percentage of the successful Kickstarter campaigns in the 
 
 * To populate the “Number successful”, “Number Failed” and “Number Canceled”, columns and using the “countifs”, I got confused and thought that I should filter the columns of Kickstarter based on successful/Failed/canceled as well as subcategory based on plays but after checking the data set, I realized that it does not matter if it is filtered or not. However, the “countifs” performs this filtering.
 * Because in the “Canceled Number” column, all the cells got a value of 0, thus I was not sure if all columns would be zero or not. By filtering the outcomes using “Canceled” along with subcategory using “plays”and checking the data set, I could not find a common point and I made sure that the column D in the outcomes based on goals sheet correctly selected.
-* In chart “ Outcomes_ vs_Goals”, the values on the vertical axis did not conclude the percentage symbol ”%”, I could solve this problem by right click on the column and selecting “Format cell/Percentage”. ![Missing Percentage](/resources/Missing%20Percentage.png)  
+* In chart “ Outcomes_ vs_Goals”, the values on the vertical axis did not conclude the percentage symbol ”%”, I could solve this problem by right click on the column and selecting “Format cell/Percentage”. 
+![Missing Percentage](/resources/Missing%20Percentage.png)  
 
 
 
